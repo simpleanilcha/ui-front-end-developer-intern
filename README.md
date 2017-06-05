@@ -11,13 +11,13 @@ During the internship **(Duration)**, you'll work along with **Sr.** Designers a
 
 
 ## Test
-The test is to check one's familiarity with what's going in and around the field. Visiting the <a href="http://example.com/" target="_blank">example</a> [Link](http://te56v1.axshare.com/#c=2) will lead you the repository of **Visual Design (VD)** file. We expect you to convert the VD file into valid HTML, CSS and JS.
+The test is to check one's familiarity with what's going in and around the field. Visiting the [Link](http://te56v1.axshare.com/#c=2) will lead you the repository of **Visual Design (VD)** file. We expect you to convert the VD file into valid HTML, CSS and JS.
 
 
 ## Task
 
  * Visit the link (http://te56v1.axshare.com/#c=2) and download the Visual Design file.
- * Convert the visual design into interactive prototype using valid HTML, CSS & JS syntax.
+ * Convert the visual design into interactive prototype using valid HTML, CSS & JS syntax. (Hover on Navigation, Login)
  * The prototype should be Responsive enough to scale across devices without any UI issues.
  * There is no boundries for using any Front-end frameworks but we prefer to see hand-coded codes from scratch.
  * Completed task should be hosted on self's repository (Github preferred) and link should be shared for code review.
@@ -31,7 +31,7 @@ The test is to check one's familiarity with what's going in and around the field
  * Use of Google Fonts
  * Use of Task Runner
  * Use of CSS Preprocessor
-
+ * Use of icon-fonts instead of Images
 
 ```
 NOTE: The successful intership will be reviewed by Seniors and best performer will get an opportunity to become a FTE.
