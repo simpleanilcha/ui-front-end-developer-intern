@@ -17,7 +17,7 @@ The test is to check one's familiarity with what's going in and around the field
 ## Task
 
  * Visit the link (http://te56v1.axshare.com/#c=2) and download the Visual Design file.
- * Convert the visual design into interactive prototype using valid HTML, CSS & JS syntax. (Hover on Navigation, Login)
+ * Convert the visual design into interactive prototype using valid HTML, CSS & JS syntax. (Hover on Navigation, Login button)
  * The prototype should be Responsive enough to scale across devices without any UI issues.
  * There is no boundries for using any Front-end frameworks but we prefer to see hand-coded codes from scratch.
  * Completed task should be hosted on self's repository (Github preferred) and link should be shared for code review.
@@ -26,12 +26,9 @@ The test is to check one's familiarity with what's going in and around the field
 ## Bonus points
 
  * A keen eye for Visual Design and UX process.
- * Proper use of HTML(5) and CSS(3) semantics
+ * Proper use of HTML(5) and CSS(3) semantics.
  * Hand-coded from scratch without using any Front-end Frameworks using [BEM](http://getbem.com/) and [SMACSS](https://smacss.com/) methodology.
- * Use of Google Fonts
- * Use of Task Runner
- * Use of CSS Preprocessor
- * Use of icon-fonts instead of Images
+ * Use of **Google Fonts**, **Task Runner**, **CSS Preprocessor**, **Icon fonts [No images]**
 
 ```
 NOTE: The successful intership will be reviewed by Seniors and best performer will get an opportunity to become a FTE.
