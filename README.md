@@ -11,7 +11,7 @@ During the internship **(Duration)**, you'll work along with **Sr.** Designers a
 
 
 ## Test
-The test is to check one's familiarity with what's going in and around the field. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the Wireframe. We expect you to convert the VD file into valid HTML, CSS and JS.
+The test is to check one's familiarity with what's going in and around the field. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the **Wireframe**. We expect you to convert the VD file into valid HTML, CSS and JS.
 
 
 ## Task
