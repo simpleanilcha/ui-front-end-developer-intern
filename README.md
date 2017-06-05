@@ -11,7 +11,7 @@ During the internship **(12 weeks)**, you'll work along with **Senior** Designer
 
 
 ## Test
-The test is designed to check one's familiarity with field basics. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the **Wireframe**. We expect you to convert the wireframe into valid HTML, CSS and JS.
+The test is designed to check one's familiarity with field basics. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the **Wireframe**. We expect you to convert the wireframe into valid HTML, CSS and JS.aSDdcvas adf
 
 
 ## Task
