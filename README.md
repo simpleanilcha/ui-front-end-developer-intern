@@ -11,7 +11,7 @@ During the internship **(12 weeks)**, you'll work along with **Senior** Designer
 
 
 ## Test
-The test is designed to check one's familiarity with field basics. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the **Wireframe**. We expect you to convert the wireframe into valid HTML, CSS and JS.aSDdcvas adf
+The test is designed to check one's familiarity with field basics. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the **Wireframe**. We expect you to convert the wireframe into valid HTML, CSS and JS.
 
 
 ## Task
@@ -22,7 +22,6 @@ The test is designed to check one's familiarity with field basics. Visiting the 
  * The prototype should be Responsive enough to scale across devices without any UI issues.
  * There is no boundries for using any Front-end frameworks but we prefer to see hand-coded codes from scratch.
  * Completed task should be hosted on self's repository (Github preferred) and link should be shared for code review.
- * We expect you to deliver this task within **72hrs**.
 
 
 ## Bonus points
@@ -33,6 +32,7 @@ The test is designed to check one's familiarity with field basics. Visiting the 
  * Use of **Google Fonts**, **Task Runner**, **CSS Preprocessor**, **Icon fonts [No images]**
 
 ```
-NOTE: A successful internship as deemed by the team may result in a full time employment offer.
+NOTE: 
+* We expect you to deliver this task within 72hrs.
+* A successful internship as deemed by the team may result in a full time employment offer.
 ```
-
