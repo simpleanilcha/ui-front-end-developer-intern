@@ -22,6 +22,7 @@ The test is designed to check one's familiarity with field basics. Visiting the 
  * The prototype should be Responsive enough to scale across devices without any UI issues.
  * There is no boundries for using any Front-end frameworks but we prefer to see hand-coded codes from scratch.
  * Completed task should be hosted on self's repository (Github preferred) and link should be shared for code review.
+ * We expect you to deliver this task within **72hrs**.
 
 
 ## Bonus points
