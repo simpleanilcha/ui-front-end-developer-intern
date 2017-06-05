@@ -11,12 +11,13 @@ During the internship **(Duration)**, you'll work along with **Sr.** Designers a
 
 
 ## Test
-The test is to check one's familiarity with what's going in and around the field. Visiting the [Link](http://te56v1.axshare.com/#c=2) will lead you the repository of **Visual Design (VD)** file. We expect you to convert the VD file into valid HTML, CSS and JS.
+The test is to check one's familiarity with what's going in and around the field. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the Wireframe. We expect you to convert the VD file into valid HTML, CSS and JS.
 
 
 ## Task
 
- * Visit the link (http://te56v1.axshare.com/#c=2) and download the Visual Design file.
+ * Visit the link for task's Wireframe: http://te56v1.axshare.com/#c=2)
+ * Individual should layout visual components i.e. Images, Colors, Spacings, Interaction etc. by self.
  * Convert the visual design into interactive prototype using valid HTML, CSS & JS syntax. (Hover on Navigation, Login button)
  * The prototype should be Responsive enough to scale across devices without any UI issues.
  * There is no boundries for using any Front-end frameworks but we prefer to see hand-coded codes from scratch.
