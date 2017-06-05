@@ -5,13 +5,13 @@ Making a website was a problem. So we fixed it. Facebook Pages makes it easy for
 
 ## Hiring **UI Developer** Intern(s)
 
-We are looking for an enthusiastic intern(s) who are seeking for an opportunity to learn, sharpen their skills and grow with the company. We are a strong believers of **Open-work** culture, **Agile** and **Team-work**.
+We are looking for an enthusiastic intern(s) seeking an opportunity to learn, sharpen their skills and grow with the company. We are strong believers of **Open-work** culture, **Agile** and **Team-work**.
 
-During the internship **(Duration)**, you'll work along with **Sr.** Designers and Developers and get exposure to industry standard Process, Trends, Tools and Technology. 
+During the internship **(12 weeks)**, you'll work along with **Senior** Designers and Developers and get exposure to industry standard process, trends, tools and technology. 
 
 
 ## Test
-The test is to check one's familiarity with what's going in and around the field. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the **Wireframe**. We expect you to convert the VD file into valid HTML, CSS and JS.
+The test is designed to check one's familiarity with field basics. Visiting the [Link](http://te56v1.axshare.com/#c=2) will open the **Wireframe**. We expect you to convert the wireframe into valid HTML, CSS and JS.
 
 
 ## Task
@@ -32,6 +32,6 @@ The test is to check one's familiarity with what's going in and around the field
  * Use of **Google Fonts**, **Task Runner**, **CSS Preprocessor**, **Icon fonts [No images]**
 
 ```
-NOTE: The successful intership will be reviewed by Seniors and best performer will get an opportunity to become a FTE.
+NOTE: A successful internship as deemed by the team may result in a full time employment offer.
 ```
 
