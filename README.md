@@ -18,10 +18,10 @@ The test is designed to check one's familiarity with field basics. Visiting the 
 
  * Visit the link for task's Wireframe: http://te56v1.axshare.com/#c=2)
  * Individual should layout visual components i.e. Images, Colors, Spacings, Interaction etc. by self.
- * Convert the visual design into interactive prototype using valid HTML, CSS & JS syntax. (Hover on Navigation, Login button)
+ * Convert the completed layout into interactive prototype using valid HTML, CSS & JS syntax. (Hover on Navigation, Login button)
  * The prototype should be Responsive enough to scale across devices without any UI issues.
  * There is no boundries for using any Front-end frameworks but we prefer to see hand-coded codes from scratch.
- * Completed task should be hosted on self's repository (Github preferred) and link should be shared for code review.
+ * Completed task should be hosted on self's repository **(Github preferred)** and link should be shared for code review.
 
 
 ## Bonus points
