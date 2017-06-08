@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+
+# misc
+/.sass-cache
+/components/libs
+
+npm-debug.log
+testem.log
+.DS_Store

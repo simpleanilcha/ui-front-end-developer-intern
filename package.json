@@ -1,0 +1,29 @@
+{
+  "name": "pagevamp-test",
+  "version": "1.0.0",
+  "description": "Making a website was a problem. So we fixed it. Facebook Pages makes it easy for you to add and manage your information. We take the difficulty out of putting that information on your website. Don't waste several hours every week updating your website manually. Just update your Facebook page, and spend your time building your business and doing what you love.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpleanilcha/ui-front-end-developer-intern.git"
+  },
+  "author": "Anil Maharjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simpleanilcha/ui-front-end-developer-intern/issues"
+  },
+  "homepage": "https://github.com/simpleanilcha/ui-front-end-developer-intern#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
