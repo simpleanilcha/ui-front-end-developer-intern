@@ -2,5 +2,28 @@
     background-color: $brand-color
     border-radius: 2.5em
     color: #fff
-    padding: 1em 2em
-    margin: 0.75em
+    border-color: $brand-color
+    transition: $main-transition
+    &:hover, &:focus
+        background-color: darken($brand-color, 15%)
+        border-color: darken($brand-color, 15%)
+        color: #fff
+
+.btn-bordered
+    background-color: lighten($gray-color, 70%)
+    border: 1px solid $brand-color
+    border-radius: 2.5em
+    color: $brand-color
+    transition: $main-transition
+    &:hover, &:focus
+        background-color: $brand-color
+        color: #fff
+        border-color: $brand-color
+
+.btn-small
+    padding: 0.75em 1.5em
+    margin: 0.5em
+
+.btn-large
+    padding: 1em 3em
+    margin: 0.75em    

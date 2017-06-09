@@ -4,3 +4,15 @@
         border: none
         min-height: auto
         margin-bottom: 0
+
+.header-nav
+    & a
+        // color: $brand-color !important
+        transition: $main-transition
+    & a:hover, & a:focus
+        border-bottom: 2px solid $brand-color
+        opacity: 0.6
+    & .active a
+        color: $brand-color !important
+        background-color: transparent !important
+        border-bottom: 2px solid $brand-color  

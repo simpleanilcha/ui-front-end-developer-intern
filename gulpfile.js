@@ -20,13 +20,12 @@ gulp.task('css', function() {
 
 // Image minimize task
 gulp.task('imagemin', function() {
-    return gulp.src(['components/images/**/*'])
+    return gulp.src(['components/images/**/*.*'])
         .pipe(imagemin({
             // interlaced: true,
             progressive: true,
             // optimizationLevel: 5,
-            svgoPlugins: [{ removeViewBox: true }],
-            use: [pngquant()]
+            svgoPlugins: [{ removeViewBox: true }]
         }))
         .pipe(gulp.dest('development/images/'));
 });
